@@ -1,0 +1,97 @@
+<svg width="696" height="702" viewBox="0 0 554.00 482.59" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="translate(4,478.5899963378906) scale(1)">
+<title>Romanshorn</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-478.59 550,-478.59 550,4 -4,4"/>
+<!-- KSR -->
+<g id="node1" class="node">
+<title>Seoul</title>
+<ellipse fill="none" stroke="black" cx="61.5" cy="-61.5" rx="61.5" ry="61.5"/>
+<text text-anchor="start" x="19.3" y="-65.7" font-family="Times,serif" font-size="14.00">pop: 10349312</text>
+<text text-anchor="start" x="45.55" y="-48.9" font-family="Times,serif" font-size="14.00">Seoul</text>
+</g>
+<!-- Turnhalle -->
+
+<!-- KSR&#45;&gt;Turnhalle -->
+
+<!-- Weitenzelgstr -->
+<g id="node2" class="node">
+<title>Moscow</title>
+<ellipse fill="none" stroke="black" cx="202.5" cy="-237.3" rx="61.5" ry="61.5"/>
+<text text-anchor="start" x="160.3" y="-241.5" font-family="Times,serif" font-size="14.00">pop: 10381222</text>
+<text text-anchor="start" x="178.39" y="-224.7" font-family="Times,serif" font-size="14.00">Moscow</text>
+</g><g id="edge3" class="edge">
+<title>Moscow-&gt;Seoul</title>
+<path fill="none" stroke="black" d="M163.97,-188.81C146.17,-166.87 124.93,-140.68 106.41,-117.85"/>
+<polygon fill="black" stroke="black" points="109,-115.49 99.98,-109.93 103.56,-119.9 109,-115.49"/>
+<text text-anchor="middle" x="145.83" y="-145.2" font-family="Times,serif" font-size="14.00">left</text>
+</g>
+<!-- KSR&#45;&gt;Weitenzelgstr -->
+
+<!-- Sek -->
+<g id="edge4" class="edge">
+<title>Moscow-&gt;Wuhan</title>
+<path fill="none" stroke="black" d="M202.5,-175.51C202.5,-161.88 202.5,-147.31 202.5,-133.32"/>
+<polygon fill="black" stroke="black" points="206,-133.25 202.5,-123.25 199,-133.25 206,-133.25"/>
+<text text-anchor="middle" x="215.72" y="-145.2" font-family="Times,serif" font-size="14.00">right</text>
+</g>
+<!-- KSR&#45;&gt;Sek -->
+<g id="edge1" class="edge">
+<title>Tianjin-&gt;Moscow</title>
+<path fill="none" stroke="black" d="M249.77,-355.67C243.14,-339.19 235.83,-321.04 228.98,-304.04"/>
+<polygon fill="black" stroke="black" points="232.21,-302.71 225.23,-294.74 225.72,-305.32 232.21,-302.71"/>
+<text text-anchor="middle" x="249.83" y="-320.99" font-family="Times,serif" font-size="14.00">left</text>
+</g>
+<!-- Bahnhof -->
+
+<!-- Bahnhofstr -->
+<g id="edge2" class="edge">
+<title>Tianjin-&gt;São_Paulo</title>
+<path fill="none" stroke="black" d="M295.55,-355.67C302.31,-339.11 309.77,-320.86 316.74,-303.79"/>
+<polygon fill="black" stroke="black" points="320.02,-305.02 320.56,-294.44 313.54,-302.37 320.02,-305.02"/>
+<text text-anchor="middle" x="323.72" y="-320.99" font-family="Times,serif" font-size="14.00">right</text>
+</g>
+<!-- Weitenzelgstr&#45;&gt;Bahnhofstr -->
+
+<!-- Bahnhofstr&#45;&gt;KSR -->
+<g id="node3" class="node">
+<title>Wuhan</title>
+<ellipse fill="none" stroke="black" cx="202.5" cy="-61.5" rx="61.5" ry="61.5"/>
+<text text-anchor="start" x="160.3" y="-65.7" font-family="Times,serif" font-size="14.00">pop: 10392693</text>
+<text text-anchor="start" x="182.28" y="-48.9" font-family="Times,serif" font-size="14.00">Wuhan</text>
+</g>
+<!-- Bahnhofstr&#45;&gt;Bahnhof -->
+<g id="edge5" class="edge">
+<title>São_Paulo-&gt;Karachi</title>
+<path fill="none" stroke="black" d="M343.5,-175.51C343.5,-161.88 343.5,-147.31 343.5,-133.32"/>
+<polygon fill="black" stroke="black" points="347,-133.25 343.5,-123.25 340,-133.25 347,-133.25"/>
+<text text-anchor="middle" x="352.83" y="-145.2" font-family="Times,serif" font-size="14.00">left</text>
+</g>
+<g id="node6" class="node">
+<title>São_Paulo</title>
+<ellipse fill="none" stroke="black" cx="343.5" cy="-237.3" rx="61.5" ry="61.5"/>
+<text text-anchor="start" x="301.3" y="-241.5" font-family="Times,serif" font-size="14.00">pop: 12400232</text>
+<text text-anchor="start" x="314.91" y="-224.7" font-family="Times,serif" font-size="14.00">São Paulo</text>
+</g><g id="node4" class="node">
+<title>Tianjin</title>
+<ellipse fill="none" stroke="black" cx="272.5" cy="-413.09" rx="61.5" ry="61.5"/>
+<text text-anchor="start" x="230.3" y="-417.29" font-family="Times,serif" font-size="14.00">pop: 11090314</text>
+<text text-anchor="start" x="252.28" y="-400.49" font-family="Times,serif" font-size="14.00">Tianjin</text>
+</g><g id="node5" class="node">
+<title>Karachi</title>
+<ellipse fill="none" stroke="black" cx="343.5" cy="-61.5" rx="61.5" ry="61.5"/>
+<text text-anchor="start" x="301.3" y="-65.7" font-family="Times,serif" font-size="14.00">pop: 11624219</text>
+<text text-anchor="start" x="321.35" y="-48.9" font-family="Times,serif" font-size="14.00">Karachi</text>
+</g><!-- Chengdu -->
+<g id="node7" class="node">
+<title>Chengdu</title>
+<ellipse fill="none" stroke="black" cx="484.5" cy="-61.5" rx="61.5" ry="61.5"/>
+<text text-anchor="start" x="442.3" y="-65.7" font-family="Times,serif" font-size="14.00">pop: 13568357</text>
+<text text-anchor="start" x="459.22" y="-48.9" font-family="Times,serif" font-size="14.00">Chengdu</text>
+</g>
+<g id="edge6" class="edge">
+<title>São_Paulo-&gt;Chengdu</title>
+<path fill="none" stroke="black" d="M382.03,-188.81C399.82,-166.87 421.07,-140.68 439.59,-117.85"/>
+<polygon fill="black" stroke="black" points="442.43,-119.9 446.02,-109.93 437,-115.49 442.43,-119.9"/>
+<text text-anchor="middle" x="431.72" y="-145.2" font-family="Times,serif" font-size="14.00">right</text>
+</g></g>
+</svg>
