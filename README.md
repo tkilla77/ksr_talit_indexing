@@ -1,6 +1,6 @@
 # Information Retrieval
 
-Code accompanying https://sca.ksr.ch/doku.php?id=talit:spatial and https://sca.ksr.ch/doku.php?id=talit:indexing (in German).
+Code accompanying https://sca.ksr.ch/doku.php?id=talit:retrieval (in German).
 
 There are currently four chapters:
   1. [Indexing](01_indexing.ipynb) - Building primary and secondary indices, and using binary search to implement range queries.
